@@ -41,7 +41,7 @@ By median price per sqft, the most expensive regions are Mahalaxmi (about Rs 46,
 **2. Bigger flats cost more per sqft, but location matters more.**
 Average price per sqft rises from about Rs 11,100 (1 BHK) to about Rs 29,400 (5 BHK). However, the box plot shows heavy overlap between BHK groups, and bigger flats may also sit in pricier areas, so BHK is not the whole story.
 
-![Median price by BHK](price_by_bhk.png)
+
 ![Box plot by BHK](price_boxplot_bhk.png)
 
 **3. Under-construction flats are not always more expensive.**
