@@ -55,14 +55,6 @@ Prices are skewed towards the expensive end, so the median is lower than the ave
 
 ![Price distribution](price_histogram.png)
 
-## Limitations
-
-- No listing ID, so I cannot tell scraping duplicates from genuinely identical flats.
-- The outlier rule (below Rs 2,000 or above Rs 1,00,000 per sqft) only catches extreme values. A wrong price in the middle range would slip through.
-- About 15% of listings have the age marked "Unknown", so conclusions about new vs resale are weak.
-- Region names are inconsistent in places (for example "Virar", "Virar East" and "Virar West" are separate).
-- Listing prices, not final sale prices, and the data is from around 2023.
-- Some regions have only a few dozen listings, so their medians can still move around (Ville Parle West has 57).
 
 ## Project files
 
