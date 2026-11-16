@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project on Mumbai property listings. I cleaned the raw data in Excel, loaded it into PostgreSQL, explored it with SQL and pandas, and built a Power BI dashboard on top of a SQL view.
 
-![Dashboard](dashboard.png)
+![Dashboard](housing_dashboard.png)
 
 ## Dataset
 
